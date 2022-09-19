@@ -6,3 +6,4 @@
 ###### 2022-3a YuCheng
 
 ⭐
+![nkust](nkust.png "高科大")
